@@ -1,4 +1,4 @@
-# Oa
+# Oa ![test](https://github.com/uiur/oa/actions/workflows/main.yml/badge.svg)
 
 Oa lets you write OpenAPI annotations in your API code.
 
